@@ -1,4 +1,4 @@
-Heyo, it's me
+Heyo, it's me,
 I’m interested in stuff. Programming, chess, games, music
 Trying to learn Python and then maybe learn game dev, or web development more
 and yeah
