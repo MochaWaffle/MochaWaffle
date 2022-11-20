@@ -1,7 +1,5 @@
-Heyo, it's me,
-I’m interested in stuff. Programming, chess, games, music
-Trying to learn Python and then maybe learn game dev, or web development more
-and yeah
+Hello!
+I'm someone who has a passion for programming. More specifically, I'm interested Web Development, Software Development, and Game Development.
 
 <!---
 MochaWaffle/MochaWaffle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
