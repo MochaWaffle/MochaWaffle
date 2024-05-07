@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋, I'm MochaWaffle im pooping today</h1>
+<h1 align="center">Greetings 👋, I'm MochaWaffle</h1>
 <h3 align="center">A passionate Web Developer and Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mochawaffle&label=Profile%20views&color=0e75b6&style=flat" alt="mochawaffle" /> </p>
