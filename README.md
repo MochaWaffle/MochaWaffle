@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Vite + React, Workbox, Java, C#, Unity**
 
-- 📫 How to reach me **sainivaibhav2019@gmail.com**
-
 - ⚡ Fun fact **I once ate a sandwitch**
 
 <h3 align="left">Connect with me:</h3>
