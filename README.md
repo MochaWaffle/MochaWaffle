@@ -7,12 +7,10 @@
 
 - 🌱 I’m currently learning **Vite React + Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MochaWaffle](https://github.com/MochaWaffle), [https://codepen.io/MochaWall](https://codepen.io/MochaWall), and
+- 👨‍💻 All of my projects are available at [https://github.com/MochaWaffle](https://github.com/MochaWaffle), and
   [https://mochawaffle.itch.io/](https://mochawaffle.itch.io/).
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Vite + React, Workbox, Java, C#, Unity**
-
-- ⚡ Fun fact **I once ate a sandwitch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
