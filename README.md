@@ -1,28 +1,20 @@
 <h1 align="center">Greetings 👋, I'm MochaWaffle</h1>
-<h3 align="center">A passionate Web Developer and Programmer</h3>
+I'm a Computer Science student at UMass Boston with experience in software and web development. I enjoy building projects that focus on clear design, solid implementation, and practical problem-solving.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mochawaffle&label=Profile%20views&color=0e75b6&style=flat" alt="mochawaffle" /> </p>
+### What I work with
+- Programming Languages: Java, C, Python, JavaScript, C++
+- Web Technologies: HTML, CSS, React
+- Core Concepts: Data Structures & Algorithms, Object-Oriented Programming, Debugging
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mochawaffle" alt="mochawaffle" /></a> </p>
+### Projects
+I’ve worked on a mix of academic and personal projects, including:
+- Systems-level programs written in C
+- Web applications using modern JavaScript frameworks
+- Application-focused projects emphasizing clean structure and maintainability
 
-- 🌱 I’m currently learning **Vite React + Next.js**
+Selected projects are pinned below. More work can be found throughout my repositories.
 
-- 👨‍💻 All of my projects are available at [https://github.com/MochaWaffle](https://github.com/MochaWaffle), and
-  [https://mochawaffle.itch.io/](https://mochawaffle.itch.io/).
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Vite + React, Workbox, Java, C#, Unity**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mochawall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mochawall" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mochawaffle&show_icons=true&locale=en&layout=compact" alt="mochawaffle" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mochawaffle&show_icons=true&locale=en" alt="mochawaffle" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mochawaffle&" alt="mochawaffle" /></p>
-
+### Currently
+- Continuing coursework in Computer Science
+- Improving my skills through personal projects and hands-on development
+- Exploring opportunities to apply my skills in real-world software engineering roles
